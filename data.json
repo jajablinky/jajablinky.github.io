@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "Fullstack Conference Form",
+      "description": "",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "",
+      "github_link": "https://github.com/jajablinky/Interactive-Form",
+      "image_urls": ["img/fullstack-conference-form/form_1.png", "img/fullstack-conference-form/form_2.png"]
+    },
+    {
+      "id": "1",
+      "project_name": "Humans of Incredibly Stock Footage",
+      "description": "",
+      "technologies": ["Javascript", "HTML", "CSS", "Random User API"],
+      "live_link": "",
+      "github_link": "https://github.com/jajablinky/Humans-of-Incredibly-Stock-Footage_public-api-request",
+      "image_urls": ["img/humans-of-incredibly-stock-footage/humans_1.png", "img/humans-of-incredibly-stock-footage/humans_2.png"]
+    },
+    {
+      "id": "2",
+      "project_name": "Flashcards",
+      "description": "",
+      "technologies": ["Javascript", "HTML", "CSS", "Node"],
+      "live_link": "",
+      "github_link": "https://github.com/jajablinky/flashcards",
+      "image_urls": ["img/flashcards/flashcards_1.png", "img/flashcards/flashcards_2.png"]
+    },
+    {
+      "id": "3",
+      "project_name": "Matrix Phrase Hunter Game",
+      "description": "",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "",
+      "github_link": "https://github.com/jajablinky/Phrase-Hunter-Matrix-Edition",
+      "image_urls": ["img/matrix-phrase-hunter-game/game_1.png", "img/matrix-phrase-hunter-game/game_2.png"]
+    },
+    {
+      "id": "4",
+      "project_name": "Random Quote Generator",
+      "description": "",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "",
+      "github_link": "https://github.com/jajablinky/Random-Quote-Generator",
+      "image_urls": ["img/random-quote-generator/quote_1.png", "img/random-quote-generator/quote_2.png"]
+    },
+    {
+      "id": "5",
+      "project_name": "Student Directory",
+      "description": "",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "",
+      "github_link": "https://github.com/jajablinky/ClassList-Data-Pagination-and-Filtering",
+      "image_urls": ["img/random-quote-generator/directory_1.png", "img/random-quote-generator/directory_2.png"]
+    }
+  ]
+}
