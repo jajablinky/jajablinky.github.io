@@ -5,54 +5,45 @@
       "project_name": "Fullstack Conference Form",
       "description": "asdf",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "",
+      "live_link": "/projects/0",
       "github_link": "https://github.com/jajablinky/Interactive-Form",
-      "image_urls": ["img/fullstack-conference-form/form_1.png", "img/fullstack-conference-form/form_2.png"]
+      "image_urls": ["/static/img/fullstack-conference-form/fullstack_square_1.jpeg", "/static/img/fullstack-conference-form/fullstack_landscape_1.jpeg", "/static/img/fullstack-conference-form/fullstack_landscape_2.jpeg"]
     },
     {
       "id": "1",
       "project_name": "Humans of Incredibly Stock Footage",
       "description": "asdf",
       "technologies": ["Javascript", "HTML", "CSS", "Random User API"],
-      "live_link": "",
+      "live_link": "/projects/1",
       "github_link": "https://github.com/jajablinky/Humans-of-Incredibly-Stock-Footage_public-api-request",
-      "image_urls": ["img/humans-of-incredibly-stock-footage/humans_1.png", "img/humans-of-incredibly-stock-footage/humans_2.png"]
+      "image_urls": ["/static/img/humans-of-incredibly-stock-footage/humans_square_1.jpeg", "/static/img/humans-of-incredibly-stock-footage/humans_landscape_1.jpeg", "/static/img/humans-of-incredibly-stock-footage/humans_landscape_2.jpeg"]
     },
     {
       "id": "2",
-      "project_name": "Flashcards",
-      "description": "asdf",
-      "technologies": ["Javascript", "HTML", "CSS", "Node"],
-      "live_link": "",
-      "github_link": "https://github.com/jajablinky/flashcards",
-      "image_urls": ["img/flashcards/flashcards_1.png", "img/flashcards/flashcards_2.png"]
-    },
-    {
-      "id": "3",
       "project_name": "Matrix Phrase Hunter Game",
       "description": "asdf",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "",
+      "live_link": "/projects/2",
       "github_link": "https://github.com/jajablinky/Phrase-Hunter-Matrix-Edition",
-      "image_urls": ["img/matrix-phrase-hunter-game/game_1.png", "img/matrix-phrase-hunter-game/game_2.png"]
+      "image_urls": ["/static/img/matrix-phrase-hunter-game/phrasehunter_square_1.jpeg", "/static/img/matrix-phrase-hunter-game/phrasehunter_landscape_1.jpeg", "/static/img/matrix-phrase-hunter-game/phrasehunter_landscape_2.jpeg"]
     },
     {
-      "id": "4",
+      "id": "3",
       "project_name": "Random Quote Generator",
       "description": "asdf",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "",
+      "live_link": "/projects/3",
       "github_link": "https://github.com/jajablinky/Random-Quote-Generator",
-      "image_urls": ["img/random-quote-generator/quote_1.png", "img/random-quote-generator/quote_2.png"]
+      "image_urls": ["/static/img/random-quote-generator/quote_square_1.jpeg", "/static/img/random-quote-generator/quote_landscape_1.jpeg", "/static/img/random-quote-generator/quote_landscape_2.jpeg"]
     },
     {
-      "id": "5",
+      "id": "4",
       "project_name": "Student Directory",
       "description": "asdf",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "",
+      "live_link": "/projects/4",
       "github_link": "https://github.com/jajablinky/ClassList-Data-Pagination-and-Filtering",
-      "image_urls": ["img/random-quote-generator/directory_1.png", "img/random-quote-generator/directory_2.png"]
+      "image_urls": ["/static/img/student-directory/students_square_2.jpeg", "/static/img/student-directory/students_landscape_1.jpeg", "/static/img/student-directory/students_landscape_2.jpeg"]
     }
   ]
 }
